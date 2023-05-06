@@ -1,0 +1,5 @@
+add rewards
+    date selector
+    email selector dropdownmenu
+
+display email then open new window
